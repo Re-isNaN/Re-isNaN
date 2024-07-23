@@ -7,4 +7,4 @@ no ano de 2020 à partir de pequenos cursos gratuitos no youtube, em que começe
 Atualmente, foco meu desenvolvimento em web aplicaçoes para gestão comercial, industrial e financeira, por meio das tecnologias já citadas, porém procuro sempre adquirir experiências e conhecimentos na área, estou
 aberto a aprender novas tecnologias e realizar novos projetos. Sempre evoluindo 🚀🚀🚀   
 
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![mailto:renangusoncabral@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)

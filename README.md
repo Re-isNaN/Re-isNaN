@@ -1,4 +1,4 @@
-# Olá, sou ReNaN Cabral !  C:
+# Olá, sou ReNaN !  C:
 ### Bem vindo ao meu perfil GitHub 👋
 
 Sou desenvolvedor Fullstack, especializado em React e NodeJs com breve conhecimento em SQL Server, atualmente atuo na empresa Speed System Informática como desenvolvedor fullstack júnior. Comecei a estudar programação 

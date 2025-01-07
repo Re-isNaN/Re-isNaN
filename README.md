@@ -3,7 +3,7 @@
 
 Sou desenvolvedor Fullstack, especializado em React e NodeJs com breve conhecimento em SQL Server, atualmente atuo na empresa Speed System Informática como desenvolvedor fullstack júnior. Comecei a estudar programação 
 no ano de 2020 à partir de pequenos cursos gratuitos no youtube, em que começei a avançar para Web Desenvolvimento à partir de bootcamps da [XPE Educação](https://www.xpeducacao.com.br), cursos da [RocketSeat](https://app.rocketseat.com.br) 
-e especialização em JS por meio da [EW Academy](https://web.erickwendel.com.br/ew-academy/) no curso JS Expert.
+e recentemente realizei o curso JS Expert da [EW Academy](https://web.erickwendel.com.br/ew-academy/) aprofundando minha especialização em JavaScript.
 
 Atualmente, foco meu desenvolvimento em web aplicaçoes para gestão comercial, industrial e financeira, por meio das tecnologias já citadas, porém procuro sempre adquirir experiências e conhecimentos na área, estou
 aberto a aprender novas tecnologias e realizar novos projetos. Sempre evoluindo 🚀🚀🚀   

@@ -1,6 +1,7 @@
 # Olá, sou ReNaN !  C:
 ### Bem vindo ao meu perfil GitHub 👋
 
+## Sobre Mim
 Sou desenvolvedor Fullstack, especializado em React e NodeJs com breve conhecimento em SQL Server, atualmente atuo na empresa Speed System Informática como desenvolvedor fullstack júnior. Comecei a estudar programação 
 no ano de 2020 à partir de pequenos cursos gratuitos no youtube, em que começei a avançar para Web Desenvolvimento à partir de bootcamps da [XPE Educação](https://www.xpeducacao.com.br), cursos da [RocketSeat](https://app.rocketseat.com.br) 
 e recentemente realizei o curso JS Expert da [EW Academy](https://web.erickwendel.com.br/ew-academy/) aprofundando minha especialização em JavaScript.
@@ -14,6 +15,7 @@ aberto a aprender novas tecnologias e realizar novos projetos. Sempre evoluindo 
 
 ## Tecnologias e Ferramentas 💻🧰
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)

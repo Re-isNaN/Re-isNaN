@@ -106,12 +106,3 @@ Atuei no desenvolvimento de sistemas empresariais privados, otimizando processos
 ✔ Otimização do banco de dados.
 
 ### 📌 Projetos Públicos
-Aqui estão alguns projetos que desenvolvi e posso compartilhar:
-
-🚀 [...]  
-🛠 Tecnologias: React, TypeScript, Node.js  
-📖 Descrição: Sistema para gestão de tarefas, com autenticação JWT e banco de dados SQL Server.  
-
-🌍 [...]  
-🛠 Tecnologias: Vite, Fastify, React Hook Form  
-📖 Descrição: Aplicação de controle financeiro para pequenas empresas.  

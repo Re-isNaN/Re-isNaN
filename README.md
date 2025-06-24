@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 ## Sobre Mim
-Sou Desenvolvedor Fullstack com especialização em React e Node.js, e experiência com SQL Server. Atualmente, trabalho como Desenvolvedor Fullstack Júnior na Speed System Informática, 
+Sou Desenvolvedor Fullstack com especialização em React e Node.js, e experiência com SQL Server. Atualmente, trabalho como Desenvolvedor Fullstack na Speed System Informática, 
 onde sou responsável pelo desenvolvimento de soluções para sistemas de gestão comercial, industrial e financeira.
 
 🚀 Minha jornada na programação começou em 2020, com cursos gratuitos no YouTube, e logo evoluí para bootcamps da [XPE Educação](https://www.xpeducacao.com.br) e cursos da [RocketSeat](https://app.rocketseat.com.br). 
